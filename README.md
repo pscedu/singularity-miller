@@ -6,6 +6,8 @@
 ![License](https://img.shields.io/github/license/pscedu/singularity-miller)
 
 # singularity-miller
+![](https://github.com/johnkerl/miller/raw/main/docs/src/coverart/cover-combined.png)
+
 Singularity recipe for [miller](https://miller.readthedocs.io/).
 
 ## Installing the container on Bridges 2
